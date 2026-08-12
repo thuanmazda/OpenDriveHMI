@@ -1,0 +1,80 @@
+{
+  "game": {
+    "connected": true,
+    "paused": false,
+    "gameName": "ETS2",
+    "time": "0001-01-08T21:09:00Z",
+    "timeScale": 19.0,
+    "nextRestStopTime": "0001-01-01T10:11:00Z",
+    "version": "1.10",
+    "telemetryPluginVersion": "7"
+  },
+  "truck": {
+    "id": "man",
+    "make": "MAN",
+    "model": "TGX",
+    "speed": 86.3,
+    "cruiseControlSpeed": 90.0,
+    "cruiseControlOn": true,
+    "odometer": 105809.25,
+    "gear": 4,
+    "displayedGear": 4,
+    "forwardGears": 12,
+    "reverseGears": 2,
+    "shifterType": "automatic",
+    "engineRpm": 1800.8,
+    "engineRpmMax": 2500.0,
+    "fuel": 321.5,
+    "fuelCapacity": 700.0,
+    "fuelAverageConsumption": 7.2,
+    "fuelWarningFactor": 0.15,
+    "fuelWarningOn": false,
+    "wearEngine": 0.0067,
+    "wearTransmission": 0.047,
+    "wearCabin": 0.044,
+    "wearChassis": 0.043,
+    "wearWheels": 0.041,
+    "blinkerLeftOn": true,
+    "blinkerRightOn": false,
+    "lightsParkingOn": true,
+    "lightsBeamLowOn": true,
+    "lightsBeamHighOn": false,
+    "parkBrakeOn": false,
+    "motorBrakeOn": true,
+    "brakeTemperature": 15.9,
+    "adblue": 0.0,
+    "adblueCapacity": 0.0,
+    "adblueAverageConsumption": 0.0,
+    "retarderBrake": 2,
+    "retarderStepCount": 3
+  },
+  "trailer": {
+    "attached": true,
+    "id": "derrick",
+    "name": "Derrick",
+    "mass": 22000.5,
+    "wear": 0.0314717,
+    "placement": {
+      "x": 13475.5762,
+      "y": 67.3605652,
+      "z": 14618.6211,
+      "heading": 0.185142234,
+      "pitch": -0.0067760786,
+      "roll": -0.000293774
+    }
+  },
+  "job": {
+    "income": 2310,
+    "deadlineTime": "0001-01-09T03:34:00Z",
+    "remainingTime": "0001-01-01T07:06:00Z",
+    "sourceCity": "Linz",
+    "sourceCompany": "DHL",
+    "destinationCity": "Salzburg",
+    "destinationCompany": "JCB"
+  },
+  "navigation": {
+    "estimatedTime": "0001-01-01T02:05:00Z",
+    "estimatedDistance": 132500,
+    "speedLimit": 90
+  }
+}

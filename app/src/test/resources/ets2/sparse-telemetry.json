@@ -1,0 +1,57 @@
+{
+  "game": {
+    "connected": false,
+    "paused": true,
+    "gameName": "ETS2",
+    "time": null,
+    "timeScale": 0.0,
+    "nextRestStopTime": null,
+    "version": null,
+    "telemetryPluginVersion": null
+  },
+  "truck": {
+    "speed": 0.0,
+    "cruiseControlSpeed": 0.0,
+    "cruiseControlOn": false,
+    "gear": 0,
+    "displayedGear": 0,
+    "engineRpm": 0.0,
+    "fuel": 0.0,
+    "fuelAverageConsumption": 0.0,
+    "blinkerLeftOn": false,
+    "blinkerRightOn": false,
+    "lightsParkingOn": false,
+    "lightsBeamLowOn": false,
+    "lightsBeamHighOn": false,
+    "parkBrakeOn": true,
+    "motorBrakeOn": false,
+    "retarderBrake": 0
+  },
+  "trailer": {
+    "attached": false,
+    "mass": 0.0,
+    "wear": 0.0,
+    "placement": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "heading": 0.0,
+      "pitch": 0.0,
+      "roll": 0.0
+    }
+  },
+  "job": {
+    "income": 0,
+    "deadlineTime": null,
+    "remainingTime": null,
+    "sourceCity": "",
+    "sourceCompany": "",
+    "destinationCity": "",
+    "destinationCompany": ""
+  },
+  "navigation": {
+    "estimatedTime": null,
+    "estimatedDistance": 0,
+    "speedLimit": 0
+  }
+}
